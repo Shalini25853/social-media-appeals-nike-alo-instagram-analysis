@@ -1,12 +1,12 @@
 # social-media-appeals-nike-alo-instagram-analysis
 Consumer engagement analysis comparing emotional and rational appeals in Instagram posts by Nike and Alo Yoga, using correlation and descriptive statistics to guide brand content strategy.
-# 📱 Instagram Engagement Analysis – Nike & Alo Yoga
+#  Instagram Engagement Analysis – Nike & Alo Yoga
 
 This project compares the effectiveness of **emotional vs rational appeals** in Instagram content by **Nike** and **Alo Yoga**. It uses engagement data (likes, comments) to evaluate how brand messaging influences audience response and builds content recommendations based on user behavior.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To assess how different content types impact engagement and:
 - Identify which messaging strategy—**emotional** or **rational**—performs better
@@ -15,7 +15,7 @@ To assess how different content types impact engagement and:
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 - Collected data from 20 recent Instagram posts per brand
 - Manually labeled content as **emotional** or **rational**
@@ -26,7 +26,7 @@ To assess how different content types impact engagement and:
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 - **Emotional Appeals** (e.g., motivational, inclusive, wellness) generated the highest engagement — with **correlation coefficients of 0.7–0.8**
 - **Nike’s athlete storytelling posts** and **Alo Yoga’s self-care messages** were top performers
@@ -35,16 +35,16 @@ To assess how different content types impact engagement and:
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 - `BITD A1.xlsx` – Data and correlation analysis  
 - `A1 BITD Report.docx` – Insights and strategic recommendations
 
-> 📌 **Note**: Original post screenshots and internal brand commentary are excluded for confidentiality purposes.
+>  **Note**: Original post screenshots and internal brand commentary are excluded for confidentiality purposes.
 
 ---
 
-## 📌 Strategic Recommendations
+##  Strategic Recommendations
 
 - Prioritize storytelling and emotional triggers over product specs
 - Align themes with brand identity (motivation for Nike, mindfulness for Alo)
@@ -53,14 +53,14 @@ To assess how different content types impact engagement and:
 
 ---
 
-## 🏷️ Tags
+## Tags
 
 `#instagram-analytics` `#marketing-strategy` `#brand-content`  
 `#emotional-appeal` `#rational-appeal` `#consumer-behavior` `#engagement-metrics`
 
 ---
 
-## ✍️ Author
+##  Author
 
 **Shalini James Paulraj**  
 Graduate Student – Business Analytics & International Business  
